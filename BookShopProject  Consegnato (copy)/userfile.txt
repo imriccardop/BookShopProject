@@ -1,0 +1,4 @@
+Uadvanced$commesso;commesso;
+Ustandard$cliente;cliente;
+Uadmin$admin1;admin1;
+Uadmin$admin;admin;
